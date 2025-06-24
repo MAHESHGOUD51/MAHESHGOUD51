@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**MAHESHGOUD51/MAHESHGOUD51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+*Name:* Mahesh Goud  
+🎓 B.Tech (4th Year), Information Technology  
+🏫 Malla Reddy Engineering College, Hyderabad  
+📊 CGPA: 7.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📜 Academic Background
+
+- *Intermediate:* Rishi Junior College, 60%
+- *Secondary Schooling:* Montessori High School, 10 GPA
+
+---
+
+## 🧠 Skills
+
+- *Languages:* Python, Java, C  
+- *Data Science:* Data Visualization, Machine Learning  
+- *Tools:* Tableau, Jupyter Notebook, Git
+
 -->
